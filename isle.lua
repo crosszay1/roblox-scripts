@@ -1,1 +1,0 @@
-loadstring(game:HttpGetAsync("https://paste.ee/r/M1Hgt/0"))()
